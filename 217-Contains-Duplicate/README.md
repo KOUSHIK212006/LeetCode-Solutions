@@ -27,3 +27,4 @@ For each number in the array:
 ## Languages
 
 - Java
+- C
